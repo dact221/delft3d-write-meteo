@@ -2,7 +2,7 @@
 
 Write space- andt time-varying meteo files on curvilinear grid for Delft3D
 
-**Authors:** Diego A. Casas <<diego.casas@ufpr.br>>; Sofia M. G. Rocha <<s.midauargondimrocha@lancaster.ac.uk>>
+**Authors:** Diego A. Casas (Federal University of Paraná, Brazil); Sofia M. G. Rocha (Lancaster University, UK)
 
 **Version:** 20250804
 
